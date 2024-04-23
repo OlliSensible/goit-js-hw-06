@@ -1,1 +1,1 @@
- https://ollisensible.github.io/goit-js-hw-04/
+ https://ollisensible.github.io/goit-js-hw-06/
